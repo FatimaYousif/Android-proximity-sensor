@@ -6,5 +6,6 @@
 
 Note: To find the files required to change:
 1. (XML code): https://github.com/FatimaYousif/Android-proximity-sensor/blob/main/app/src/main/res/layout/activity_main.xml
+
 2. (Java code): https://github.com/FatimaYousif/Android-proximity-sensor/blob/main/app/src/main/java/com/example/proximity_sensor/MainActivity.java
 
